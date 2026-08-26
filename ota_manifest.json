@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "versionCode": 211050,
-  "versionName": "2.11.50-ota-test",
+  "versionCode": 211049,
+  "versionName": "2.11.49.debug",
   "publishedAt": "2026-08-26T17:09:00Z",
   "minSupportedVersionCode": 0,
-  "releaseNotes": "OTA E2E acceptance test build, not for production use.",
+  "releaseNotes": "same version as installed, should not trigger update",
   "artifacts": [
     {
       "abi": "arm64-v8a",
