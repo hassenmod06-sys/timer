@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "versionCode": 211099,
+  "versionName": "2.11.99-bad-download-test",
+  "minSupportedVersionCode": 0,
+  "releaseNotes": "test: apk url unreachable",
+  "artifacts": [
+    {
+      "abi": "arm64-v8a",
+      "url": "https://e2e-test-ota-unreachable.invalid/fake.apk",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "size": 1000
+    }
+  ]
+}
