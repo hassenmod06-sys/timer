@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "versionName": "2.11.99-missing-versioncode",
+  "minSupportedVersionCode": 0,
+  "artifacts": [
+    {
+      "abi": "arm64-v8a",
+      "url": "https://github.com/hassenmod06-sys/timer/releases/download/ota-e2e-test-1/Nelo-ota-e2e-test-arm64-v8a.apk",
+      "sha256": "46ae2fd506a515089ad1ddeae75feda03921abc9cfd2913572f90a2ea6cdb27c",
+      "size": 54173089
+    }
+  ]
+}
